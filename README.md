@@ -164,5 +164,5 @@ Both are projects funded by the German Research Foundation (DFG) and located at 
 
 For further details, please refer to:
 
-- BIOfid, DFG project identifier [326024153](https://gepris.dfg.de/gepris/projekt/326061700?language=en)
+- BIOfid, DFG project identifier [326061700](https://gepris.dfg.de/gepris/projekt/326061700?language=en)
 - Fachinformationsdienst Linguistik, DFG project identifier [326024153](https://gepris.dfg.de/gepris/projekt/326024153?language=en)
